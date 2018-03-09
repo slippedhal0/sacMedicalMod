@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>SacMedicalMod</name>
+	<author>Slipped_Hal0</author>
+	<targetVersion>0.18.1722</targetVersion>
+	<description>
+
+V1.0
+This mod includes:
+
+
+- Doctor pawns now perform critical doctoring tasks before going to sleep or wake up do do the task if the job is marked as Priority 1 in the Work Tab. They have also been internally reprioritised into a more sensible order if they are set at the same priority in the Work Tab.
+
+ - 100 = Highest Priority
+
+ - Tend to Critical Patient - 100(default) - Pawns are tagged as critical if they will die in <12000 ticks(<6 in-game hours)
+ - Tend to Self - 95(was 65)
+ - Rescue Pawn - 90(default)
+ - Tend to Patient - 85(was 70) - "Humanlikes" only
+
+
+<!-- COMING SOON --> 
+
+- Using medicine now takes into account more factors. If the conditions allow for >100% chance for healing, the Doctor pawn will fetch a lower tier Medicine if available.
+
+- Bionics can now be harvested from corpses for a short duration. For up to 12 hours bionics are still viable from bodies. Harvesting from dead bodies will give Harvested from Cadaver, Harvested from Colonist or Harvested from Friend debuff with -2, -6 and -10 mood respectively. 
+
+<!-- Separate Mods To Be Considered -->
+
+- Buffer Stockpile - A custom stockpile that has a settable stack size instead of fixed maximum.
+
+
+<!-- Credit -->
+
+While all code in this mod is my own, credit is due to BritNoth who designed Patient Sanity, a similar mod that helped me understand what I was doing.
+
+
+
+</description>
+
+
+</ModMetaData>
