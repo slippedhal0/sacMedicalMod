@@ -13,7 +13,7 @@ Completed Features:
   - Tend to (Human)Pawn Normal
   
   
-  -- Changed priority of Doctoring so that it now takes priority over going to bed
+  -- Changed priority of Doctoring so that it now takes priority over the Patient role
   
   
 Features Currently Under Development:
