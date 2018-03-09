@@ -4,7 +4,11 @@ A Rimworld mod based around changes requested by Sacriel
 This mod includes several changes to the vanilla medical system, and the intent is to add more over time. 
 
 
+
 Completed Features:
+
+-- Self Tend, Tend to (Humanlike)Pawn and Rescue Pawn subtasks of Doctoring now will be completed by a Doctor who has Doctor set to Priority 1 in the Work Tab before going to sleep
+
 
 -- The priorities for the subtasks within Doctoring have been changed to make more sense. The subtasks will now be performed in this order:
   - Tend to (Human)Pawn Critical - Pawns that will die in less than 12000 ticks(6 in-game hours) are separated into their own subtask
@@ -12,10 +16,8 @@ Completed Features:
   - Rescue Pawn
   - Tend to (Human)Pawn Normal
   
+  
 -- Changed priority of Doctoring so that it now takes priority over Patient so that a Doctor should not prioritise going to a medical bed over tending themselves or others. This is reflected in the Work Tab.
-  
-  
--- Self Tend, Tend to (Humanlike)Pawn and Rescue Pawn subtasks of Doctoring now will be completed by a Doctor who has Doctor set to Priority 1 in the Work Tab before going to sleep
   
 
 Features Currently Under Development:
