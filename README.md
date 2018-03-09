@@ -18,7 +18,7 @@ Completed Features:
   
 Features Currently Under Development:
 
- -- The Self Tend, Tend to (Humanlike)Pawn and Rescue Pawn subtasks of Doctoring now will be completed by a Doctor who has Doctor set to Priority 1 in the Work Tab before going to sleep, or will wake up to complete them. This was achieved by setting the <emergency> tag for each WorkGiver.  
+ -- The Self Tend, Tend to (Humanlike)Pawn and Rescue Pawn subtasks of Doctoring now will be completed by a Doctor who has Doctor set to Priority 1 in the Work Tab before going to sleep, or will wake up to complete them.
   
   
   -- 
