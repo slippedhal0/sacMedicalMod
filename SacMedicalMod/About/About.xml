@@ -7,7 +7,7 @@
 	<description>
 
 V1.0
-- Doctor pawns perform critical doctoring tasks before going to sleep or wake up do do the task if the job is marked as Priority 1 in the Work Tab. They have also been internally reprioritised into a more sensible order if they are set at the same priority in the Work Tab.
+- Doctor pawns perform critical doctoring tasks before going to sleep if the job is marked as Priority 1 in the Work Tab. They have also been internally reprioritised into a more sensible order if they are set at the same priority in the Work Tab.
 
  - 100 = Highest Priority
 
